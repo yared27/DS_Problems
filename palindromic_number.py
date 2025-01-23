@@ -9,5 +9,3 @@ def is_palindrom(n):
         r-=1
     return True
 print(is_palindrom(num))
-l="yared"
-print(l[0])
