@@ -2,21 +2,15 @@ st = input("Enter the parentheses")
 
 
 def isValid(self, s: str) -> bool:
+    dic = {")": "(", "}": "{", "]": "["}
     st = []
     for i in s:
-        if i == "(":
-            st.append(i)
-        elif i == "{":
-            st.append(i)
-        elif i == "[":
-            st.append(i)
-        elif st and i == ")" and st[-1] == "(":
-            st.pop()
-        elif st and i == "]" and st[-1] == "[":
-            st.pop()
-        elif st and i == "}" and st[-1] == "{":
-            st.pop()
+        if i in dic:
+            if st and st[-1] == dic[i]:
+                st.pop()
+            else:
+                return False
         else:
-            return False
+            st.append(i)
     return len(st) == 0
     print(isValid(st))
