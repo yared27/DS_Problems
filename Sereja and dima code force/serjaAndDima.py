@@ -1,36 +1,25 @@
-n = int(input("Enter the number of card"))
+n = int(input())
+cards = list(map(int, input().split()))
 
-cards = list(map(int,input().split()))
+i = 0
+j = n - 1
+serja_score = 0
+dima_score = 0
+is_serjas_turn = True
 
+while i <= j:
+    if cards[i] >= cards[j]:
+        chosen = cards[i]
+        i += 1
+    else:
+        chosen = cards[j]
+        j -= 1
 
-def play():
-    i = 0
-    j = n - 1
-    serja_score = 0
-    dima_score = 0
-    is_serjas_turn = True
-    while i<=j:
-        if is_serjas_turn:
-            if cards[i]>=cards[j]:
-                serja_score+=cards[i]
-                i+=1
-            else:
-                serja_score+=cards[j]
-                j-=1
-            is_serjas_turn=False
-        else:
-            if cards[i]>=cards[j]:
-                dima_score+=cards[i]
-                i+=1
-            else:
-                dima_score+=cards[j]
-                j-=1
-            is_serjas_turn = True
-    return serja_score,dima_score
-print(play())
+    if is_serjas_turn:
+        serja_score += chosen
+    else:
+        dima_score += chosen
 
+    is_serjas_turn = not is_serjas_turn
 
-
-
-
-
+print(serja_score, dima_score)
