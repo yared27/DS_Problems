@@ -13,16 +13,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/yared27/DS_Problems/tree/master/0463-island-perimeter) |
+| [0690-employee-importance](https://github.com/yared27/DS_Problems/tree/master/0690-employee-importance) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/yared27/DS_Problems/tree/master/0463-island-perimeter) |
+| [0690-employee-importance](https://github.com/yared27/DS_Problems/tree/master/0690-employee-importance) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/yared27/DS_Problems/tree/master/0463-island-perimeter) |
+| [0690-employee-importance](https://github.com/yared27/DS_Problems/tree/master/0690-employee-importance) |
 ## Matrix
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/yared27/DS_Problems/tree/master/0463-island-perimeter) |
+## Hash Table
+|  |
+| ------- |
+| [0690-employee-importance](https://github.com/yared27/DS_Problems/tree/master/0690-employee-importance) |
+## Tree
+|  |
+| ------- |
+| [0690-employee-importance](https://github.com/yared27/DS_Problems/tree/master/0690-employee-importance) |
 <!---LeetCode Topics End-->
