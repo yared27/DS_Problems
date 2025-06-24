@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/yared27/DS_Problems/tree/master/0547-number-of-provinces) |
 | [0690-employee-importance](https://github.com/yared27/DS_Problems/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/yared27/DS_Problems/tree/master/0695-max-area-of-island) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/yared27/DS_Problems/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/yared27/DS_Problems/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/yared27/DS_Problems/tree/master/0547-number-of-provinces) |
 | [0690-employee-importance](https://github.com/yared27/DS_Problems/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/yared27/DS_Problems/tree/master/0695-max-area-of-island) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/yared27/DS_Problems/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/yared27/DS_Problems/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 ## Matrix
 |  |
@@ -53,10 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/yared27/DS_Problems/tree/master/0100-same-tree) |
 | [0690-employee-importance](https://github.com/yared27/DS_Problems/tree/master/0690-employee-importance) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/yared27/DS_Problems/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/yared27/DS_Problems/tree/master/0100-same-tree) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/yared27/DS_Problems/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 ## Union Find
 |  |
 | ------- |
