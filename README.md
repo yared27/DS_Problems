@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/yared27/DS_Problems/tree/master/0463-island-perimeter) |
 | [0690-employee-importance](https://github.com/yared27/DS_Problems/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/yared27/DS_Problems/tree/master/0695-max-area-of-island) |
+| [0792-binary-search](https://github.com/yared27/DS_Problems/tree/master/0792-binary-search) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/yared27/DS_Problems/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 ## Depth-First Search
 |  |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0725-split-linked-list-in-parts](https://github.com/yared27/DS_Problems/tree/master/0725-split-linked-list-in-parts) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/yared27/DS_Problems/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
