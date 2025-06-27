@@ -3,10 +3,8 @@ class Solution:
         for i,row in enumerate(image):
             row.reverse()
             for j in range(len(row)):
-                if image[i][j]==0:
-                    image[i][j]=1
-                else:
-                    image[i][j]=0
+                    image[i][j]=1-image[i][j]
+               
         return image
                 
 
