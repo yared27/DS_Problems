@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yared27/DS_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/yared27/DS_Problems/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/yared27/DS_Problems/tree/master/0463-island-perimeter) |
+| [0594-longest-harmonious-subsequence](https://github.com/yared27/DS_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0690-employee-importance](https://github.com/yared27/DS_Problems/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/yared27/DS_Problems/tree/master/0695-max-area-of-island) |
 | [0792-binary-search](https://github.com/yared27/DS_Problems/tree/master/0792-binary-search) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/yared27/DS_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0690-employee-importance](https://github.com/yared27/DS_Problems/tree/master/0690-employee-importance) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/yared27/DS_Problems/tree/master/2421-maximum-number-of-pairs-in-array) |
 ## Tree
@@ -122,9 +124,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/yared27/DS_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/yared27/DS_Problems/tree/master/2421-maximum-number-of-pairs-in-array) |
 ## Sorting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/yared27/DS_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/yared27/DS_Problems/tree/master/2210-find-target-indices-after-sorting-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/yared27/DS_Problems/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
