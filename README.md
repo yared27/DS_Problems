@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/yared27/DS_Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0399-evaluate-division](https://github.com/yared27/DS_Problems/tree/master/0399-evaluate-division) |
 | [0686-repeated-string-match](https://github.com/yared27/DS_Problems/tree/master/0686-repeated-string-match) |
 ## Array
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/yared27/DS_Problems/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yared27/DS_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/yared27/DS_Problems/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/yared27/DS_Problems/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/yared27/DS_Problems/tree/master/0463-island-perimeter) |
 | [0594-longest-harmonious-subsequence](https://github.com/yared27/DS_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yared27/DS_Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/yared27/DS_Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/yared27/DS_Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/yared27/DS_Problems/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/yared27/DS_Problems/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/yared27/DS_Problems/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/yared27/DS_Problems/tree/master/0547-number-of-provinces) |
 | [0690-employee-importance](https://github.com/yared27/DS_Problems/tree/master/0690-employee-importance) |
@@ -51,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/yared27/DS_Problems/tree/master/0100-same-tree) |
 | [0130-surrounded-regions](https://github.com/yared27/DS_Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/yared27/DS_Problems/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/yared27/DS_Problems/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/yared27/DS_Problems/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/yared27/DS_Problems/tree/master/0547-number-of-provinces) |
 | [0690-employee-importance](https://github.com/yared27/DS_Problems/tree/master/0690-employee-importance) |
@@ -91,12 +95,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/yared27/DS_Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/yared27/DS_Problems/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/yared27/DS_Problems/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/yared27/DS_Problems/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/yared27/DS_Problems/tree/master/0695-max-area-of-island) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/yared27/DS_Problems/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 ## Graph
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/yared27/DS_Problems/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/yared27/DS_Problems/tree/master/0547-number-of-provinces) |
 ## Linked List
 |  |
@@ -141,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/yared27/DS_Problems/tree/master/0628-maximum-product-of-three-numbers) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/yared27/DS_Problems/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
