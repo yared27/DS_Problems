@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/yared27/DS_Problems/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/yared27/DS_Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/yared27/DS_Problems/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/yared27/DS_Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/yared27/DS_Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/yared27/DS_Problems/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2737-row-with-maximum-ones](https://github.com/yared27/DS_Problems/tree/master/2737-row-with-maximum-ones) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1229-shortest-path-with-alternating-colors](https://github.com/yared27/DS_Problems/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/yared27/DS_Problems/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/yared27/DS_Problems/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/yared27/DS_Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Matrix
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/yared27/DS_Problems/tree/master/0861-flipping-an-image) |
 | [1036-rotting-oranges](https://github.com/yared27/DS_Problems/tree/master/1036-rotting-oranges) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/yared27/DS_Problems/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/yared27/DS_Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2737-row-with-maximum-ones](https://github.com/yared27/DS_Problems/tree/master/2737-row-with-maximum-ones) |
 ## Hash Table
 |  |
