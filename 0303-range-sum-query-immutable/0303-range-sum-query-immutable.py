@@ -1,12 +1,11 @@
 class NumArray:
-
     def __init__(self, nums: List[int]):
-        self.nums =nums
+        self.prefixSum = [0]
+        for num in nums:
+            self.prefixSum.append(self.prefixSum[-1] + num)
+
     def sumRange(self, left: int, right: int) -> int:
-        prefixSum = [0]
-        for num in self.nums:
-            prefixSum.append(prefixSum[-1]+num)
-        return prefixSum[right+1] - prefixSum[left]
+        return self.prefixSum[right+1] - self.prefixSum[left]
 
 
 
