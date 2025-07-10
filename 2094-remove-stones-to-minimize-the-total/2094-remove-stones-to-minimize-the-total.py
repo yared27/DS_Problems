@@ -6,5 +6,4 @@ class Solution:
             max_element = -heapq.heappop(max_heap)
             reduced = max_element - max_element//2
             heapq.heappush(max_heap,-reduced)
-            
         return -sum(max_heap)
