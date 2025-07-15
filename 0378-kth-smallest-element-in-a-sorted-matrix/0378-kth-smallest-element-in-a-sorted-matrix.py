@@ -3,5 +3,8 @@ class Solution:
         newlist = []
         for j in range(len(matrix)):
             newlist+=matrix[j]
-        newlist.sort()
-        return newlist[k-1]       
+        heapq.heapify(newlist)
+        minElemnt = 0 
+        for i in range(k):
+            minElemnt = heapq.heappop(newlist)
+        return minElemnt
