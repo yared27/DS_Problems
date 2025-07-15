@@ -1,18 +1,24 @@
 class Solution:
     def kthSmallest(self, matrix: List[List[int]], k: int) -> int:
+        def countLessEqual(mid):
+            count = 0
+            n = len(matrix)
+            row, col = n-1, 0
+            while row >=0 and col < n:
+                if matrix[row][col] <= mid:
+                    count+= row+1
+                    col+=1
+                else:
+                    row-=1
+            return count
         n = len(matrix)
-        minHeap = []
 
-        for i in range(n):
-            heapq.heappush(minHeap, (matrix[i][0],i,0))
+        left, right = matrix[0][0], matrix[n-1][n-1]
 
-        count = 0
-
-        while minHeap:
-            count+=1
-            val, r, c = heapq.heappop(minHeap)
-            if count == k:
-                return val
-            if c+1<n:
-                heapq.heappush(minHeap, (matrix[r][c+1],r,c+1))
-        
+        while left < right:
+            mid = (left+right)//2
+            if countLessEqual(mid) < k:
+                left = mid+1
+            else:
+                right = mid
+        return left 
