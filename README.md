@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/yared27/DS_Problems/tree/master/1127-last-stone-weight) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/yared27/DS_Problems/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/yared27/DS_Problems/tree/master/1876-map-of-highest-peak) |
+| [1962-single-threaded-cpu](https://github.com/yared27/DS_Problems/tree/master/1962-single-threaded-cpu) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/yared27/DS_Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/yared27/DS_Problems/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/yared27/DS_Problems/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/yared27/DS_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yared27/DS_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1018-largest-perimeter-triangle](https://github.com/yared27/DS_Problems/tree/master/1018-largest-perimeter-triangle) |
+| [1962-single-threaded-cpu](https://github.com/yared27/DS_Problems/tree/master/1962-single-threaded-cpu) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/yared27/DS_Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/yared27/DS_Problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yared27/DS_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1127-last-stone-weight](https://github.com/yared27/DS_Problems/tree/master/1127-last-stone-weight) |
+| [1962-single-threaded-cpu](https://github.com/yared27/DS_Problems/tree/master/1962-single-threaded-cpu) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/yared27/DS_Problems/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Divide and Conquer
 |  |
