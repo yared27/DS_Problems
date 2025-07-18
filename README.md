@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/yared27/DS_Problems/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yared27/DS_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0055-jump-game](https://github.com/yared27/DS_Problems/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/yared27/DS_Problems/tree/master/0088-merge-sorted-array) |
 | [0130-surrounded-regions](https://github.com/yared27/DS_Problems/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yared27/DS_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -231,10 +232,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/yared27/DS_Problems/tree/master/0055-jump-game) |
 | [0542-01-matrix](https://github.com/yared27/DS_Problems/tree/master/0542-01-matrix) |
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/yared27/DS_Problems/tree/master/0055-jump-game) |
 | [0890-lemonade-change](https://github.com/yared27/DS_Problems/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/yared27/DS_Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/yared27/DS_Problems/tree/master/1303-minimum-moves-to-reach-target-score) |
