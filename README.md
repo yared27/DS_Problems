@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/yared27/DS_Problems/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yared27/DS_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/yared27/DS_Problems/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/yared27/DS_Problems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/yared27/DS_Problems/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yared27/DS_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/yared27/DS_Problems/tree/master/0217-contains-duplicate) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/yared27/DS_Problems/tree/master/0055-jump-game) |
+| [0198-house-robber](https://github.com/yared27/DS_Problems/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/yared27/DS_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/yared27/DS_Problems/tree/master/0542-01-matrix) |
 | [1013-fibonacci-number](https://github.com/yared27/DS_Problems/tree/master/1013-fibonacci-number) |
