@@ -3,7 +3,6 @@ class Solution:
         self.memo = {1:1, 2:2}
     def climbStairs(self, n: int) -> int:
         if n not in self.memo:
-            print(n)
             self.memo[n]  = self.climbStairs(n-1)+self.climbStairs(n-2)
         return self.memo[n]
 
