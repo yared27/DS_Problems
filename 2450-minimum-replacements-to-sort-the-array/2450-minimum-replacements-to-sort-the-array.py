@@ -1,6 +1,3 @@
-from math import ceil
-from typing import List
-
 class Solution:
     def minimumReplacement(self, nums: List[int]) -> int:
         operations = 0
