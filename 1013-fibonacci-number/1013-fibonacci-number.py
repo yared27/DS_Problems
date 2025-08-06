@@ -4,4 +4,6 @@ class Solution:
     def fib(self, n: int) -> int:
         if n not in self.memo:
             self.memo[n] = self.fib(n-1) + self.fib(n-2)
+        
         return self.memo[n]
+       
