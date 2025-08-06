@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/yared27/DS_Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/yared27/DS_Problems/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/yared27/DS_Problems/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yared27/DS_Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/yared27/DS_Problems/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/yared27/DS_Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/yared27/DS_Problems/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/yared27/DS_Problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yared27/DS_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -350,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/yared27/DS_Problems/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/yared27/DS_Problems/tree/master/1013-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/yared27/DS_Problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
