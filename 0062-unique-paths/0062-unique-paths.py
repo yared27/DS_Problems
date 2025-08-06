@@ -1,19 +1,17 @@
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
-        @cache
-        def uniquePath(coord):
-            row, col = coord
-            if (row,col)==(m-1,n-1):
-                return 1
-            ways = 0
-            if col+1<n:
-                ways += uniquePath((row,col+1))
-            if row+1<m:
-                ways += uniquePath((row+1, col))
-            return ways
-        return uniquePath((0,0))
-            
+        dp = [[0 for _ in range(n)] for _ in range(m)]
+        dp[m-1][n-1] = 1
 
+        def answers(i,j):
+            if 0<=i<m and 0<=j<n:
+                return dp[i][j]
+            return 0
+        for i in range(m-1,-1,-1):
+            for j in range(n-1,-1,-1):
+                dp[i][j]+=answers(i,j+1) + answers(i+1,j)
+        return dp[0][0]
 
+        
 
         
