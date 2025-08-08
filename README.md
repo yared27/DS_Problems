@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/yared27/DS_Problems/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/yared27/DS_Problems/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/yared27/DS_Problems/tree/master/1018-largest-perimeter-triangle) |
+| [1236-n-th-tribonacci-number](https://github.com/yared27/DS_Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/yared27/DS_Problems/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [2032-largest-odd-number-in-string](https://github.com/yared27/DS_Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/yared27/DS_Problems/tree/master/2450-minimum-replacements-to-sort-the-array) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/yared27/DS_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/yared27/DS_Problems/tree/master/0542-01-matrix) |
 | [1013-fibonacci-number](https://github.com/yared27/DS_Problems/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/yared27/DS_Problems/tree/master/1236-n-th-tribonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/yared27/DS_Problems/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/yared27/DS_Problems/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/yared27/DS_Problems/tree/master/1236-n-th-tribonacci-number) |
 ## Combinatorics
 |  |
 | ------- |
