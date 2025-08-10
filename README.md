@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/yared27/DS_Problems/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/yared27/DS_Problems/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/yared27/DS_Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/yared27/DS_Problems/tree/master/0392-is-subsequence) |
 | [0861-flipping-an-image](https://github.com/yared27/DS_Problems/tree/master/0861-flipping-an-image) |
 ## String
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/yared27/DS_Problems/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/yared27/DS_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/yared27/DS_Problems/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/yared27/DS_Problems/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/yared27/DS_Problems/tree/master/0399-evaluate-division) |
 | [0686-repeated-string-match](https://github.com/yared27/DS_Problems/tree/master/0686-repeated-string-match) |
 | [1044-find-common-characters](https://github.com/yared27/DS_Problems/tree/master/1044-find-common-characters) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yared27/DS_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0174-dungeon-game](https://github.com/yared27/DS_Problems/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/yared27/DS_Problems/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/yared27/DS_Problems/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/yared27/DS_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/yared27/DS_Problems/tree/master/0542-01-matrix) |
 | [0815-champagne-tower](https://github.com/yared27/DS_Problems/tree/master/0815-champagne-tower) |
