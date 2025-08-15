@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/yared27/DS_Problems/tree/master/0399-evaluate-division) |
 | [0686-repeated-string-match](https://github.com/yared27/DS_Problems/tree/master/0686-repeated-string-match) |
 | [1044-find-common-characters](https://github.com/yared27/DS_Problems/tree/master/1044-find-common-characters) |
+| [1250-longest-common-subsequence](https://github.com/yared27/DS_Problems/tree/master/1250-longest-common-subsequence) |
 | [2032-largest-odd-number-in-string](https://github.com/yared27/DS_Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/yared27/DS_Problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Array
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0815-champagne-tower](https://github.com/yared27/DS_Problems/tree/master/0815-champagne-tower) |
 | [1013-fibonacci-number](https://github.com/yared27/DS_Problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/yared27/DS_Problems/tree/master/1236-n-th-tribonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/yared27/DS_Problems/tree/master/1250-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
