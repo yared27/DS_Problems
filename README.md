@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/yared27/DS_Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/yared27/DS_Problems/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/yared27/DS_Problems/tree/master/0338-counting-bits) |
+| [0461-hamming-distance](https://github.com/yared27/DS_Problems/tree/master/0461-hamming-distance) |
 | [0861-flipping-an-image](https://github.com/yared27/DS_Problems/tree/master/0861-flipping-an-image) |
 ## Simulation
 |  |
