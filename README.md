@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/yared27/DS_Problems/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/yared27/DS_Problems/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/yared27/DS_Problems/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/yared27/DS_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/yared27/DS_Problems/tree/master/0242-valid-anagram) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/yared27/DS_Problems/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/yared27/DS_Problems/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/yared27/DS_Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/yared27/DS_Problems/tree/master/0268-missing-number) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/yared27/DS_Problems/tree/master/0067-add-binary) |
 | [0861-flipping-an-image](https://github.com/yared27/DS_Problems/tree/master/0861-flipping-an-image) |
 | [2058-concatenation-of-array](https://github.com/yared27/DS_Problems/tree/master/2058-concatenation-of-array) |
 ## Counting
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/yared27/DS_Problems/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/yared27/DS_Problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/yared27/DS_Problems/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/yared27/DS_Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/yared27/DS_Problems/tree/master/0268-missing-number) |
