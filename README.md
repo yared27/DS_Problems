@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/yared27/DS_Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yared27/DS_Problems/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/yared27/DS_Problems/tree/master/0063-unique-paths-ii) |
+| [0078-subsets](https://github.com/yared27/DS_Problems/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/yared27/DS_Problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/yared27/DS_Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/yared27/DS_Problems/tree/master/0119-pascals-triangle-ii) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/yared27/DS_Problems/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/yared27/DS_Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/yared27/DS_Problems/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/yared27/DS_Problems/tree/master/0338-counting-bits) |
@@ -399,5 +401,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/yared27/DS_Problems/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/yared27/DS_Problems/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
