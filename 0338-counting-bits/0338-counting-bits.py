@@ -1,7 +1,6 @@
 class Solution:
     def countBits(self, n: int) -> List[int]:
         output = []
-        print(2&1)
 
         def countOnes(num):
             noOne = 0
