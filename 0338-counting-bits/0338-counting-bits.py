@@ -1,19 +1,18 @@
 class Solution:
     def countBits(self, n: int) -> List[int]:
         output = []
+        print(2&1)
+
         def countOnes(num):
-            ct = 0
-            print(num)
-
+            noOne = 0
             while num:
-                if num&1==1:
-                    ct+=1
+                if num & 1:
+                    noOne += 1
                 num >>= 1
-                print(num)
-            return ct
-        
+            return noOne
         for i in range(n+1):
-            num_bits = countOnes(i)
-            output.append(num_bits)
+            output.append(countOnes(i))
+        
         return output
-
+                  
+        
