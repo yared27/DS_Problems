@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/yared27/DS_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/yared27/DS_Problems/tree/master/0392-is-subsequence) |
 | [0861-flipping-an-image](https://github.com/yared27/DS_Problems/tree/master/0861-flipping-an-image) |
+| [1168-duplicate-zeros](https://github.com/yared27/DS_Problems/tree/master/1168-duplicate-zeros) |
 ## String
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/yared27/DS_Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1095-two-city-scheduling](https://github.com/yared27/DS_Problems/tree/master/1095-two-city-scheduling) |
 | [1127-last-stone-weight](https://github.com/yared27/DS_Problems/tree/master/1127-last-stone-weight) |
+| [1168-duplicate-zeros](https://github.com/yared27/DS_Problems/tree/master/1168-duplicate-zeros) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/yared27/DS_Problems/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/yared27/DS_Problems/tree/master/1876-map-of-highest-peak) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/yared27/DS_Problems/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
