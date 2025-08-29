@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/yared27/DS_Problems/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/yared27/DS_Problems/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/yared27/DS_Problems/tree/master/0461-hamming-distance) |
+| [0476-number-complement](https://github.com/yared27/DS_Problems/tree/master/0476-number-complement) |
 | [0861-flipping-an-image](https://github.com/yared27/DS_Problems/tree/master/0861-flipping-an-image) |
 ## Simulation
 |  |
