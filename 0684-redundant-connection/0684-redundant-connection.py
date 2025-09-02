@@ -17,7 +17,7 @@ class Solution:
             if yroot != xroot:
                 if rank[yroot] > rank[xroot]:
                     root[xroot] = yroot
-                if rank[xroot] > rank[yroot]:
+                elif rank[xroot] > rank[yroot]:
                     root[yroot] = xroot
                 else:
                     root[yroot] = xroot
