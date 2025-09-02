@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/yared27/DS_Problems/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/yared27/DS_Problems/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/yared27/DS_Problems/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/yared27/DS_Problems/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/yared27/DS_Problems/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/yared27/DS_Problems/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/yared27/DS_Problems/tree/master/0820-find-eventual-safe-states) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/yared27/DS_Problems/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/yared27/DS_Problems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/yared27/DS_Problems/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/yared27/DS_Problems/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/yared27/DS_Problems/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/yared27/DS_Problems/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/yared27/DS_Problems/tree/master/0820-find-eventual-safe-states) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/yared27/DS_Problems/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/yared27/DS_Problems/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/yared27/DS_Problems/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/yared27/DS_Problems/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/yared27/DS_Problems/tree/master/0695-max-area-of-island) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/yared27/DS_Problems/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 ## Graph
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/yared27/DS_Problems/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/yared27/DS_Problems/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/yared27/DS_Problems/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/yared27/DS_Problems/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/yared27/DS_Problems/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/yared27/DS_Problems/tree/master/0871-keys-and-rooms) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/yared27/DS_Problems/tree/master/1229-shortest-path-with-alternating-colors) |
