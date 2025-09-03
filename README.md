@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/yared27/DS_Problems/tree/master/0399-evaluate-division) |
 | [0680-valid-palindrome-ii](https://github.com/yared27/DS_Problems/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/yared27/DS_Problems/tree/master/0686-repeated-string-match) |
+| [0721-accounts-merge](https://github.com/yared27/DS_Problems/tree/master/0721-accounts-merge) |
 | [1044-find-common-characters](https://github.com/yared27/DS_Problems/tree/master/1044-find-common-characters) |
 | [1250-longest-common-subsequence](https://github.com/yared27/DS_Problems/tree/master/1250-longest-common-subsequence) |
 | [2032-largest-odd-number-in-string](https://github.com/yared27/DS_Problems/tree/master/2032-largest-odd-number-in-string) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/yared27/DS_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0690-employee-importance](https://github.com/yared27/DS_Problems/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/yared27/DS_Problems/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/yared27/DS_Problems/tree/master/0721-accounts-merge) |
 | [0792-binary-search](https://github.com/yared27/DS_Problems/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/yared27/DS_Problems/tree/master/0797-rabbits-in-forest) |
 | [0861-flipping-an-image](https://github.com/yared27/DS_Problems/tree/master/0861-flipping-an-image) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/yared27/DS_Problems/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/yared27/DS_Problems/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/yared27/DS_Problems/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/yared27/DS_Problems/tree/master/0721-accounts-merge) |
 | [0820-find-eventual-safe-states](https://github.com/yared27/DS_Problems/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/yared27/DS_Problems/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/yared27/DS_Problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/yared27/DS_Problems/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/yared27/DS_Problems/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/yared27/DS_Problems/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/yared27/DS_Problems/tree/master/0721-accounts-merge) |
 | [0820-find-eventual-safe-states](https://github.com/yared27/DS_Problems/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/yared27/DS_Problems/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/yared27/DS_Problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -176,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/yared27/DS_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/yared27/DS_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0690-employee-importance](https://github.com/yared27/DS_Problems/tree/master/0690-employee-importance) |
+| [0721-accounts-merge](https://github.com/yared27/DS_Problems/tree/master/0721-accounts-merge) |
 | [0797-rabbits-in-forest](https://github.com/yared27/DS_Problems/tree/master/0797-rabbits-in-forest) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/yared27/DS_Problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1044-find-common-characters](https://github.com/yared27/DS_Problems/tree/master/1044-find-common-characters) |
@@ -215,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/yared27/DS_Problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/yared27/DS_Problems/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/yared27/DS_Problems/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/yared27/DS_Problems/tree/master/0721-accounts-merge) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/yared27/DS_Problems/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 ## Graph
 |  |
@@ -289,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yared27/DS_Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0594-longest-harmonious-subsequence](https://github.com/yared27/DS_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yared27/DS_Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0721-accounts-merge](https://github.com/yared27/DS_Problems/tree/master/0721-accounts-merge) |
 | [1018-largest-perimeter-triangle](https://github.com/yared27/DS_Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/yared27/DS_Problems/tree/master/1095-two-city-scheduling) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/yared27/DS_Problems/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
