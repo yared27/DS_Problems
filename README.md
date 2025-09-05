@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/yared27/DS_Problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yared27/DS_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yared27/DS_Problems/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/yared27/DS_Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yared27/DS_Problems/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/yared27/DS_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/yared27/DS_Problems/tree/master/0392-is-subsequence) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/yared27/DS_Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yared27/DS_Problems/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/yared27/DS_Problems/tree/master/0063-unique-paths-ii) |
+| [0075-sort-colors](https://github.com/yared27/DS_Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/yared27/DS_Problems/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/yared27/DS_Problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/yared27/DS_Problems/tree/master/0118-pascals-triangle) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/yared27/DS_Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yared27/DS_Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/yared27/DS_Problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yared27/DS_Problems/tree/master/0215-kth-largest-element-in-an-array) |
