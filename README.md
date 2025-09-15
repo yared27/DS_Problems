@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/yared27/DS_Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/yared27/DS_Problems/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [2032-largest-odd-number-in-string](https://github.com/yared27/DS_Problems/tree/master/2032-largest-odd-number-in-string) |
+| [2083-three-divisors](https://github.com/yared27/DS_Problems/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/yared27/DS_Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/yared27/DS_Problems/tree/master/2450-minimum-replacements-to-sort-the-array) |
 ## Shortest Path
@@ -454,5 +455,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/yared27/DS_Problems/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/yared27/DS_Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/yared27/DS_Problems/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
