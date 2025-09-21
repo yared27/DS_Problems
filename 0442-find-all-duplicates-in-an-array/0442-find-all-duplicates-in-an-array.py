@@ -1,8 +1,10 @@
 class Solution:
     def findDuplicates(self, nums: List[int]) -> List[int]:
         ans = []
-        count = Counter(nums)
-        for key, value in count.items():
-            if value == 2:
-                ans.append(key)
-        return ans
+        for num in nums:
+            indx = abs(num) - 1
+            if nums[indx] < 0:
+                ans.append(abs(num))
+            else:
+                nums[indx] = -nums[indx]
+        return ans 
