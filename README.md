@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/yared27/DS_Problems/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/yared27/DS_Problems/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/yared27/DS_Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/yared27/DS_Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/yared27/DS_Problems/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/yared27/DS_Problems/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/yared27/DS_Problems/tree/master/0399-evaluate-division) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/yared27/DS_Problems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/yared27/DS_Problems/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/yared27/DS_Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/yared27/DS_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yared27/DS_Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yared27/DS_Problems/tree/master/0268-missing-number) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/yared27/DS_Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0303-range-sum-query-immutable](https://github.com/yared27/DS_Problems/tree/master/0303-range-sum-query-immutable) |
 ## Prefix Sum
 |  |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/yared27/DS_Problems/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/yared27/DS_Problems/tree/master/0208-implement-trie-prefix-tree) |
 ## Recursion
 |  |
 | ------- |
