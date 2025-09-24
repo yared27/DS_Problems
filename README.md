@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/yared27/DS_Problems/tree/master/1095-two-city-scheduling) |
 | [1127-last-stone-weight](https://github.com/yared27/DS_Problems/tree/master/1127-last-stone-weight) |
 | [1168-duplicate-zeros](https://github.com/yared27/DS_Problems/tree/master/1168-duplicate-zeros) |
+| [1217-relative-sort-array](https://github.com/yared27/DS_Problems/tree/master/1217-relative-sort-array) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/yared27/DS_Problems/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1580-shuffle-the-array](https://github.com/yared27/DS_Problems/tree/master/1580-shuffle-the-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/yared27/DS_Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/yared27/DS_Problems/tree/master/0797-rabbits-in-forest) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/yared27/DS_Problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1044-find-common-characters](https://github.com/yared27/DS_Problems/tree/master/1044-find-common-characters) |
+| [1217-relative-sort-array](https://github.com/yared27/DS_Problems/tree/master/1217-relative-sort-array) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/yared27/DS_Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/yared27/DS_Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/yared27/DS_Problems/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/yared27/DS_Problems/tree/master/0721-accounts-merge) |
 | [1018-largest-perimeter-triangle](https://github.com/yared27/DS_Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/yared27/DS_Problems/tree/master/1095-two-city-scheduling) |
+| [1217-relative-sort-array](https://github.com/yared27/DS_Problems/tree/master/1217-relative-sort-array) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/yared27/DS_Problems/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [1962-single-threaded-cpu](https://github.com/yared27/DS_Problems/tree/master/1962-single-threaded-cpu) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/yared27/DS_Problems/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -478,4 +481,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/yared27/DS_Problems/tree/master/2083-three-divisors) |
+## Counting Sort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/yared27/DS_Problems/tree/master/1217-relative-sort-array) |
 <!---LeetCode Topics End-->
