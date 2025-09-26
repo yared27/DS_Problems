@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/yared27/DS_Problems/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/yared27/DS_Problems/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/yared27/DS_Problems/tree/master/0721-accounts-merge) |
+| [0777-toeplitz-matrix](https://github.com/yared27/DS_Problems/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/yared27/DS_Problems/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/yared27/DS_Problems/tree/master/0797-rabbits-in-forest) |
 | [0861-flipping-an-image](https://github.com/yared27/DS_Problems/tree/master/0861-flipping-an-image) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/yared27/DS_Problems/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/yared27/DS_Problems/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/yared27/DS_Problems/tree/master/0695-max-area-of-island) |
+| [0777-toeplitz-matrix](https://github.com/yared27/DS_Problems/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/yared27/DS_Problems/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/yared27/DS_Problems/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/yared27/DS_Problems/tree/master/1036-rotting-oranges) |
