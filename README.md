@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/yared27/DS_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/yared27/DS_Problems/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/yared27/DS_Problems/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/yared27/DS_Problems/tree/master/0072-edit-distance) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yared27/DS_Problems/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/yared27/DS_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/yared27/DS_Problems/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/yared27/DS_Problems/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/yared27/DS_Problems/tree/master/0208-implement-trie-prefix-tree) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/yared27/DS_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/yared27/DS_Problems/tree/master/0594-longest-harmonious-subsequence) |
 ## Math
 |  |
