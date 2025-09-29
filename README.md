@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yared27/DS_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0399-evaluate-division](https://github.com/yared27/DS_Problems/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/yared27/DS_Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/yared27/DS_Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/yared27/DS_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yared27/DS_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yared27/DS_Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/yared27/DS_Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yared27/DS_Problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/yared27/DS_Problems/tree/master/0347-top-k-frequent-elements) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/yared27/DS_Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yared27/DS_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/yared27/DS_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0690-employee-importance](https://github.com/yared27/DS_Problems/tree/master/0690-employee-importance) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yared27/DS_Problems/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/yared27/DS_Problems/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/yared27/DS_Problems/tree/master/0371-sum-of-two-integers) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/yared27/DS_Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/yared27/DS_Problems/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/yared27/DS_Problems/tree/master/0476-number-complement) |
 | [0861-flipping-an-image](https://github.com/yared27/DS_Problems/tree/master/0861-flipping-an-image) |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/yared27/DS_Problems/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/yared27/DS_Problems/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/yared27/DS_Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/yared27/DS_Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Recursion
 |  |
 | ------- |
