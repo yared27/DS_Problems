@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/yared27/DS_Problems/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/yared27/DS_Problems/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/yared27/DS_Problems/tree/master/0721-accounts-merge) |
+| [0808-number-of-matching-subsequences](https://github.com/yared27/DS_Problems/tree/master/0808-number-of-matching-subsequences) |
 | [1044-find-common-characters](https://github.com/yared27/DS_Problems/tree/master/1044-find-common-characters) |
 | [1250-longest-common-subsequence](https://github.com/yared27/DS_Problems/tree/master/1250-longest-common-subsequence) |
 | [1397-search-suggestions-system](https://github.com/yared27/DS_Problems/tree/master/1397-search-suggestions-system) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/yared27/DS_Problems/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/yared27/DS_Problems/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/yared27/DS_Problems/tree/master/0797-rabbits-in-forest) |
+| [0808-number-of-matching-subsequences](https://github.com/yared27/DS_Problems/tree/master/0808-number-of-matching-subsequences) |
 | [0861-flipping-an-image](https://github.com/yared27/DS_Problems/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/yared27/DS_Problems/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/yared27/DS_Problems/tree/master/0898-transpose-matrix) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/yared27/DS_Problems/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/yared27/DS_Problems/tree/master/0721-accounts-merge) |
 | [0797-rabbits-in-forest](https://github.com/yared27/DS_Problems/tree/master/0797-rabbits-in-forest) |
+| [0808-number-of-matching-subsequences](https://github.com/yared27/DS_Problems/tree/master/0808-number-of-matching-subsequences) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/yared27/DS_Problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1044-find-common-characters](https://github.com/yared27/DS_Problems/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/yared27/DS_Problems/tree/master/1217-relative-sort-array) |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/yared27/DS_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yared27/DS_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0792-binary-search](https://github.com/yared27/DS_Problems/tree/master/0792-binary-search) |
+| [0808-number-of-matching-subsequences](https://github.com/yared27/DS_Problems/tree/master/0808-number-of-matching-subsequences) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/yared27/DS_Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1397-search-suggestions-system](https://github.com/yared27/DS_Problems/tree/master/1397-search-suggestions-system) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/yared27/DS_Problems/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -341,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/yared27/DS_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/yared27/DS_Problems/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/yared27/DS_Problems/tree/master/0721-accounts-merge) |
+| [0808-number-of-matching-subsequences](https://github.com/yared27/DS_Problems/tree/master/0808-number-of-matching-subsequences) |
 | [1018-largest-perimeter-triangle](https://github.com/yared27/DS_Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/yared27/DS_Problems/tree/master/1095-two-city-scheduling) |
 | [1217-relative-sort-array](https://github.com/yared27/DS_Problems/tree/master/1217-relative-sort-array) |
@@ -411,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/yared27/DS_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/yared27/DS_Problems/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/yared27/DS_Problems/tree/master/0542-01-matrix) |
+| [0808-number-of-matching-subsequences](https://github.com/yared27/DS_Problems/tree/master/0808-number-of-matching-subsequences) |
 | [0815-champagne-tower](https://github.com/yared27/DS_Problems/tree/master/0815-champagne-tower) |
 | [1013-fibonacci-number](https://github.com/yared27/DS_Problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/yared27/DS_Problems/tree/master/1236-n-th-tribonacci-number) |
@@ -484,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/yared27/DS_Problems/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/yared27/DS_Problems/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/yared27/DS_Problems/tree/master/0692-top-k-frequent-words) |
+| [0808-number-of-matching-subsequences](https://github.com/yared27/DS_Problems/tree/master/0808-number-of-matching-subsequences) |
 | [1397-search-suggestions-system](https://github.com/yared27/DS_Problems/tree/master/1397-search-suggestions-system) |
 ## Recursion
 |  |
