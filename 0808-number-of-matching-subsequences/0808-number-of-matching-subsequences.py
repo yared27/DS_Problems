@@ -24,16 +24,20 @@ class Solution:
         for word in words:
             trie.insert(word)
         q = deque()
-        q.append((0, trie.root))
-        
+
+        q.append((0,trie.root))
+
         while q:
-            index , node = q.popleft()
+
+            index, node = q.popleft()
+
             if node.is_end:
                 noSubSeq += node.count
-                node.is_end =  False
+                node.is_end = False
+            
             for ch, child in node.children.items():
-                pos = s.find(ch, index)
-                if pos != -1:
-                    q.append((pos + 1, child))
+                pos = s.find(ch,index)
 
+                if pos != -1:
+                    q.append((pos+1, child))
         return noSubSeq
