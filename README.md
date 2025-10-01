@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/yared27/DS_Problems/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/yared27/DS_Problems/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/yared27/DS_Problems/tree/master/0692-top-k-frequent-words) |
+| [0720-longest-word-in-dictionary](https://github.com/yared27/DS_Problems/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/yared27/DS_Problems/tree/master/0721-accounts-merge) |
 | [0808-number-of-matching-subsequences](https://github.com/yared27/DS_Problems/tree/master/0808-number-of-matching-subsequences) |
 | [1044-find-common-characters](https://github.com/yared27/DS_Problems/tree/master/1044-find-common-characters) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/yared27/DS_Problems/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/yared27/DS_Problems/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/yared27/DS_Problems/tree/master/0695-max-area-of-island) |
+| [0720-longest-word-in-dictionary](https://github.com/yared27/DS_Problems/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/yared27/DS_Problems/tree/master/0721-accounts-merge) |
 | [0777-toeplitz-matrix](https://github.com/yared27/DS_Problems/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/yared27/DS_Problems/tree/master/0792-binary-search) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0677-map-sum-pairs](https://github.com/yared27/DS_Problems/tree/master/0677-map-sum-pairs) |
 | [0690-employee-importance](https://github.com/yared27/DS_Problems/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/yared27/DS_Problems/tree/master/0692-top-k-frequent-words) |
+| [0720-longest-word-in-dictionary](https://github.com/yared27/DS_Problems/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/yared27/DS_Problems/tree/master/0721-accounts-merge) |
 | [0797-rabbits-in-forest](https://github.com/yared27/DS_Problems/tree/master/0797-rabbits-in-forest) |
 | [0808-number-of-matching-subsequences](https://github.com/yared27/DS_Problems/tree/master/0808-number-of-matching-subsequences) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/yared27/DS_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yared27/DS_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/yared27/DS_Problems/tree/master/0692-top-k-frequent-words) |
+| [0720-longest-word-in-dictionary](https://github.com/yared27/DS_Problems/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/yared27/DS_Problems/tree/master/0721-accounts-merge) |
 | [0808-number-of-matching-subsequences](https://github.com/yared27/DS_Problems/tree/master/0808-number-of-matching-subsequences) |
 | [1018-largest-perimeter-triangle](https://github.com/yared27/DS_Problems/tree/master/1018-largest-perimeter-triangle) |
@@ -490,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/yared27/DS_Problems/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/yared27/DS_Problems/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/yared27/DS_Problems/tree/master/0692-top-k-frequent-words) |
+| [0720-longest-word-in-dictionary](https://github.com/yared27/DS_Problems/tree/master/0720-longest-word-in-dictionary) |
 | [0808-number-of-matching-subsequences](https://github.com/yared27/DS_Problems/tree/master/0808-number-of-matching-subsequences) |
 | [1397-search-suggestions-system](https://github.com/yared27/DS_Problems/tree/master/1397-search-suggestions-system) |
 ## Recursion
