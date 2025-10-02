@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/yared27/DS_Problems/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [1962-single-threaded-cpu](https://github.com/yared27/DS_Problems/tree/master/1962-single-threaded-cpu) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/yared27/DS_Problems/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2284-smallest-value-of-the-rearranged-number](https://github.com/yared27/DS_Problems/tree/master/2284-smallest-value-of-the-rearranged-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/yared27/DS_Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2083-three-divisors](https://github.com/yared27/DS_Problems/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/yared27/DS_Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2284-smallest-value-of-the-rearranged-number](https://github.com/yared27/DS_Problems/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/yared27/DS_Problems/tree/master/2450-minimum-replacements-to-sort-the-array) |
 ## Shortest Path
 |  |
