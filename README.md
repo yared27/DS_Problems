@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/yared27/DS_Problems/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1580-shuffle-the-array](https://github.com/yared27/DS_Problems/tree/master/1580-shuffle-the-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/yared27/DS_Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1753-path-with-minimum-effort](https://github.com/yared27/DS_Problems/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/yared27/DS_Problems/tree/master/1876-map-of-highest-peak) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/yared27/DS_Problems/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [1962-single-threaded-cpu](https://github.com/yared27/DS_Problems/tree/master/1962-single-threaded-cpu) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/yared27/DS_Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/yared27/DS_Problems/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/yared27/DS_Problems/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [1753-path-with-minimum-effort](https://github.com/yared27/DS_Problems/tree/master/1753-path-with-minimum-effort) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/yared27/DS_Problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/yared27/DS_Problems/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1229-shortest-path-with-alternating-colors](https://github.com/yared27/DS_Problems/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/yared27/DS_Problems/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/yared27/DS_Problems/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [1753-path-with-minimum-effort](https://github.com/yared27/DS_Problems/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/yared27/DS_Problems/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/yared27/DS_Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/yared27/DS_Problems/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/yared27/DS_Problems/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/yared27/DS_Problems/tree/master/1036-rotting-oranges) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/yared27/DS_Problems/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [1753-path-with-minimum-effort](https://github.com/yared27/DS_Problems/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/yared27/DS_Problems/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/yared27/DS_Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2737-row-with-maximum-ones](https://github.com/yared27/DS_Problems/tree/master/2737-row-with-maximum-ones) |
@@ -264,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/yared27/DS_Problems/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/yared27/DS_Problems/tree/master/0721-accounts-merge) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/yared27/DS_Problems/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [1753-path-with-minimum-effort](https://github.com/yared27/DS_Problems/tree/master/1753-path-with-minimum-effort) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/yared27/DS_Problems/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Graph
 |  |
@@ -292,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/yared27/DS_Problems/tree/master/0808-number-of-matching-subsequences) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/yared27/DS_Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1397-search-suggestions-system](https://github.com/yared27/DS_Problems/tree/master/1397-search-suggestions-system) |
+| [1753-path-with-minimum-effort](https://github.com/yared27/DS_Problems/tree/master/1753-path-with-minimum-effort) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/yared27/DS_Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 ## String Matching
 |  |
@@ -458,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/yared27/DS_Problems/tree/master/0692-top-k-frequent-words) |
 | [1127-last-stone-weight](https://github.com/yared27/DS_Problems/tree/master/1127-last-stone-weight) |
 | [1397-search-suggestions-system](https://github.com/yared27/DS_Problems/tree/master/1397-search-suggestions-system) |
+| [1753-path-with-minimum-effort](https://github.com/yared27/DS_Problems/tree/master/1753-path-with-minimum-effort) |
 | [1962-single-threaded-cpu](https://github.com/yared27/DS_Problems/tree/master/1962-single-threaded-cpu) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/yared27/DS_Problems/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Divide and Conquer
