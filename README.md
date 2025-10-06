@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/yared27/DS_Problems/tree/master/1397-search-suggestions-system) |
 | [2032-largest-odd-number-in-string](https://github.com/yared27/DS_Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/yared27/DS_Problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [3905-partition-string](https://github.com/yared27/DS_Problems/tree/master/3905-partition-string) |
 ## Array
 |  |
 | ------- |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/yared27/DS_Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/yared27/DS_Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/yared27/DS_Problems/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [3905-partition-string](https://github.com/yared27/DS_Problems/tree/master/3905-partition-string) |
 ## Tree
 |  |
 | ------- |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/yared27/DS_Problems/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/yared27/DS_Problems/tree/master/0898-transpose-matrix) |
 | [2058-concatenation-of-array](https://github.com/yared27/DS_Problems/tree/master/2058-concatenation-of-array) |
+| [3905-partition-string](https://github.com/yared27/DS_Problems/tree/master/3905-partition-string) |
 ## Counting
 |  |
 | ------- |
@@ -507,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/yared27/DS_Problems/tree/master/0720-longest-word-in-dictionary) |
 | [0808-number-of-matching-subsequences](https://github.com/yared27/DS_Problems/tree/master/0808-number-of-matching-subsequences) |
 | [1397-search-suggestions-system](https://github.com/yared27/DS_Problems/tree/master/1397-search-suggestions-system) |
+| [3905-partition-string](https://github.com/yared27/DS_Problems/tree/master/3905-partition-string) |
 ## Recursion
 |  |
 | ------- |
