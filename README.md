@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/yared27/DS_Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/yared27/DS_Problems/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/yared27/DS_Problems/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [1558-course-schedule-iv](https://github.com/yared27/DS_Problems/tree/master/1558-course-schedule-iv) |
 | [1753-path-with-minimum-effort](https://github.com/yared27/DS_Problems/tree/master/1753-path-with-minimum-effort) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/yared27/DS_Problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/yared27/DS_Problems/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1229-shortest-path-with-alternating-colors](https://github.com/yared27/DS_Problems/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/yared27/DS_Problems/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/yared27/DS_Problems/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [1558-course-schedule-iv](https://github.com/yared27/DS_Problems/tree/master/1558-course-schedule-iv) |
 | [1753-path-with-minimum-effort](https://github.com/yared27/DS_Problems/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/yared27/DS_Problems/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/yared27/DS_Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/yared27/DS_Problems/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/yared27/DS_Problems/tree/master/0871-keys-and-rooms) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/yared27/DS_Problems/tree/master/1229-shortest-path-with-alternating-colors) |
+| [1558-course-schedule-iv](https://github.com/yared27/DS_Problems/tree/master/1558-course-schedule-iv) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/yared27/DS_Problems/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Linked List
 |  |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/yared27/DS_Problems/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/yared27/DS_Problems/tree/master/0820-find-eventual-safe-states) |
+| [1558-course-schedule-iv](https://github.com/yared27/DS_Problems/tree/master/1558-course-schedule-iv) |
 ## Trie
 |  |
 | ------- |
