@@ -1,7 +1,6 @@
 class Solution:
     def networkDelayTime(self, times: List[List[int]], n: int, k: int) -> int:
         graph = {i:[] for i in range(1,n+1)}
-
         for u, v, w in times:
             graph[u].append((v,w))
         times = [float('inf')]*(n+1)
