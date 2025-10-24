@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/yared27/DS_Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/yared27/DS_Problems/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/yared27/DS_Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/yared27/DS_Problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/yared27/DS_Problems/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2755-extra-characters-in-a-string](https://github.com/yared27/DS_Problems/tree/master/2755-extra-characters-in-a-string) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/yared27/DS_Problems/tree/master/3356-shortest-uncommon-substring-in-an-array) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/yared27/DS_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/yared27/DS_Problems/tree/master/0692-top-k-frequent-words) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/yared27/DS_Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/yared27/DS_Problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/yared27/DS_Problems/tree/master/2421-maximum-number-of-pairs-in-array) |
 ## Sorting
 |  |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/yared27/DS_Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2083-three-divisors](https://github.com/yared27/DS_Problems/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/yared27/DS_Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/yared27/DS_Problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/yared27/DS_Problems/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/yared27/DS_Problems/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/yared27/DS_Problems/tree/master/3655-digit-operations-to-make-two-integers-equal) |
@@ -604,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/yared27/DS_Problems/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/yared27/DS_Problems/tree/master/0494-target-sum) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/yared27/DS_Problems/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Number Theory
 |  |
 | ------- |
@@ -617,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/yared27/DS_Problems/tree/master/2083-three-divisors) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/yared27/DS_Problems/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Counting Sort
 |  |
 | ------- |
