@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/yared27/DS_Problems/tree/master/2058-concatenation-of-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/yared27/DS_Problems/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/yared27/DS_Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2169-simple-bank-system](https://github.com/yared27/DS_Problems/tree/master/2169-simple-bank-system) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/yared27/DS_Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/yared27/DS_Problems/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/yared27/DS_Problems/tree/master/2450-minimum-replacements-to-sort-the-array) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/yared27/DS_Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/yared27/DS_Problems/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/yared27/DS_Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [2169-simple-bank-system](https://github.com/yared27/DS_Problems/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/yared27/DS_Problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/yared27/DS_Problems/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2755-extra-characters-in-a-string](https://github.com/yared27/DS_Problems/tree/master/2755-extra-characters-in-a-string) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/yared27/DS_Problems/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/yared27/DS_Problems/tree/master/0898-transpose-matrix) |
 | [2058-concatenation-of-array](https://github.com/yared27/DS_Problems/tree/master/2058-concatenation-of-array) |
+| [2169-simple-bank-system](https://github.com/yared27/DS_Problems/tree/master/2169-simple-bank-system) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yared27/DS_Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3905-partition-string](https://github.com/yared27/DS_Problems/tree/master/3905-partition-string) |
 ## Counting
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/yared27/DS_Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0303-range-sum-query-immutable](https://github.com/yared27/DS_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0677-map-sum-pairs](https://github.com/yared27/DS_Problems/tree/master/0677-map-sum-pairs) |
+| [2169-simple-bank-system](https://github.com/yared27/DS_Problems/tree/master/2169-simple-bank-system) |
 ## Prefix Sum
 |  |
 | ------- |
