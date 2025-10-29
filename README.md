@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/yared27/DS_Problems/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/yared27/DS_Problems/tree/master/0476-number-complement) |
 | [0861-flipping-an-image](https://github.com/yared27/DS_Problems/tree/master/0861-flipping-an-image) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/yared27/DS_Problems/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Simulation
 |  |
 | ------- |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/yared27/DS_Problems/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/yared27/DS_Problems/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/yared27/DS_Problems/tree/master/3655-digit-operations-to-make-two-integers-equal) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/yared27/DS_Problems/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yared27/DS_Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Shortest Path
 |  |
