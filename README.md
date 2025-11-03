@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/yared27/DS_Problems/tree/master/1250-longest-common-subsequence) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/yared27/DS_Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/yared27/DS_Problems/tree/master/1397-search-suggestions-system) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/yared27/DS_Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2032-largest-odd-number-in-string](https://github.com/yared27/DS_Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/yared27/DS_Problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/yared27/DS_Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/yared27/DS_Problems/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1580-shuffle-the-array](https://github.com/yared27/DS_Problems/tree/master/1580-shuffle-the-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/yared27/DS_Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/yared27/DS_Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1753-path-with-minimum-effort](https://github.com/yared27/DS_Problems/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/yared27/DS_Problems/tree/master/1876-map-of-highest-peak) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/yared27/DS_Problems/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/yared27/DS_Problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/yared27/DS_Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/yared27/DS_Problems/tree/master/1250-longest-common-subsequence) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/yared27/DS_Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/yared27/DS_Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2755-extra-characters-in-a-string](https://github.com/yared27/DS_Problems/tree/master/2755-extra-characters-in-a-string) |
 | [3318-maximum-number-of-operations-with-the-same-score-ii](https://github.com/yared27/DS_Problems/tree/master/3318-maximum-number-of-operations-with-the-same-score-ii) |
@@ -532,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/yared27/DS_Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/yared27/DS_Problems/tree/master/1095-two-city-scheduling) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/yared27/DS_Problems/tree/master/1303-minimum-moves-to-reach-target-score) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/yared27/DS_Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/yared27/DS_Problems/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [2032-largest-odd-number-in-string](https://github.com/yared27/DS_Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/yared27/DS_Problems/tree/master/2094-remove-stones-to-minimize-the-total) |
