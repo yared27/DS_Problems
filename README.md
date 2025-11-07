@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yared27/DS_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/yared27/DS_Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yared27/DS_Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/yared27/DS_Problems/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yared27/DS_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/yared27/DS_Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yared27/DS_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/yared27/DS_Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yared27/DS_Problems/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/yared27/DS_Problems/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/yared27/DS_Problems/tree/master/0169-majority-element) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/yared27/DS_Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yared27/DS_Problems/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/yared27/DS_Problems/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/yared27/DS_Problems/tree/master/0067-add-binary) |
