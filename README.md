@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/yared27/DS_Problems/tree/master/2755-extra-characters-in-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/yared27/DS_Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/yared27/DS_Problems/tree/master/3356-shortest-uncommon-substring-in-an-array) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/yared27/DS_Problems/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yared27/DS_Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3905-partition-string](https://github.com/yared27/DS_Problems/tree/master/3905-partition-string) |
 ## Array
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/yared27/DS_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/yared27/DS_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [2275-find-substring-with-given-hash-value](https://github.com/yared27/DS_Problems/tree/master/2275-find-substring-with-given-hash-value) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/yared27/DS_Problems/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/yared27/DS_Problems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/yared27/DS_Problems/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Math
@@ -676,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2083-three-divisors](https://github.com/yared27/DS_Problems/tree/master/2083-three-divisors) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/yared27/DS_Problems/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/yared27/DS_Problems/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Counting Sort
 |  |
 | ------- |
