@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/yared27/DS_Problems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/yared27/DS_Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2032-largest-odd-number-in-string](https://github.com/yared27/DS_Problems/tree/master/2032-largest-odd-number-in-string) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/yared27/DS_Problems/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/yared27/DS_Problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/yared27/DS_Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2275-find-substring-with-given-hash-value](https://github.com/yared27/DS_Problems/tree/master/2275-find-substring-with-given-hash-value) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/yared27/DS_Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2169-simple-bank-system](https://github.com/yared27/DS_Problems/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/yared27/DS_Problems/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/yared27/DS_Problems/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/yared27/DS_Problems/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2755-extra-characters-in-a-string](https://github.com/yared27/DS_Problems/tree/master/2755-extra-characters-in-a-string) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/yared27/DS_Problems/tree/master/3356-shortest-uncommon-substring-in-an-array) |
