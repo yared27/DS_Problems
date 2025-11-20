@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yared27/DS_Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/yared27/DS_Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0725-split-linked-list-in-parts](https://github.com/yared27/DS_Problems/tree/master/0725-split-linked-list-in-parts) |
 ## Binary Search
 |  |
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/yared27/DS_Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/yared27/DS_Problems/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/yared27/DS_Problems/tree/master/1013-fibonacci-number) |
 ## Memoization
