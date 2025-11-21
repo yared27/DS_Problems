@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/yared27/DS_Problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/yared27/DS_Problems/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yared27/DS_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/yared27/DS_Problems/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/yared27/DS_Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yared27/DS_Problems/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/yared27/DS_Problems/tree/master/0063-unique-paths-ii) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/yared27/DS_Problems/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/yared27/DS_Problems/tree/master/0063-unique-paths-ii) |
 | [0130-surrounded-regions](https://github.com/yared27/DS_Problems/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/yared27/DS_Problems/tree/master/0174-dungeon-game) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/yared27/DS_Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yared27/DS_Problems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yared27/DS_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/yared27/DS_Problems/tree/master/0036-valid-sudoku) |
 | [0139-word-break](https://github.com/yared27/DS_Problems/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/yared27/DS_Problems/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/yared27/DS_Problems/tree/master/0208-implement-trie-prefix-tree) |
