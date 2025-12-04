@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/yared27/DS_Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2032-largest-odd-number-in-string](https://github.com/yared27/DS_Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/yared27/DS_Problems/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2211-count-collisions-on-a-road](https://github.com/yared27/DS_Problems/tree/master/2211-count-collisions-on-a-road) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/yared27/DS_Problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/yared27/DS_Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2275-find-substring-with-given-hash-value](https://github.com/yared27/DS_Problems/tree/master/2275-find-substring-with-given-hash-value) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/yared27/DS_Problems/tree/master/0898-transpose-matrix) |
 | [2058-concatenation-of-array](https://github.com/yared27/DS_Problems/tree/master/2058-concatenation-of-array) |
 | [2169-simple-bank-system](https://github.com/yared27/DS_Problems/tree/master/2169-simple-bank-system) |
+| [2211-count-collisions-on-a-road](https://github.com/yared27/DS_Problems/tree/master/2211-count-collisions-on-a-road) |
 | [2288-count-operations-to-obtain-zero](https://github.com/yared27/DS_Problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/yared27/DS_Problems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yared27/DS_Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -732,4 +734,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3623-count-number-of-trapezoids-i](https://github.com/yared27/DS_Problems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/yared27/DS_Problems/tree/master/3625-count-number-of-trapezoids-ii) |
+## Stack
+|  |
+| ------- |
+| [2211-count-collisions-on-a-road](https://github.com/yared27/DS_Problems/tree/master/2211-count-collisions-on-a-road) |
 <!---LeetCode Topics End-->
