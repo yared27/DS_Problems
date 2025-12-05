@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3235-minimum-cost-to-convert-string-i](https://github.com/yared27/DS_Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3318-maximum-number-of-operations-with-the-same-score-ii](https://github.com/yared27/DS_Problems/tree/master/3318-maximum-number-of-operations-with-the-same-score-ii) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/yared27/DS_Problems/tree/master/3356-shortest-uncommon-substring-in-an-array) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/yared27/DS_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/yared27/DS_Problems/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/yared27/DS_Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/yared27/DS_Problems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/yared27/DS_Problems/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/yared27/DS_Problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/yared27/DS_Problems/tree/master/2450-minimum-replacements-to-sort-the-array) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/yared27/DS_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/yared27/DS_Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3623-count-number-of-trapezoids-i](https://github.com/yared27/DS_Problems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/yared27/DS_Problems/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/yared27/DS_Problems/tree/master/0303-range-sum-query-immutable) |
 | [2625-increment-submatrices-by-one](https://github.com/yared27/DS_Problems/tree/master/2625-increment-submatrices-by-one) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/yared27/DS_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/yared27/DS_Problems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/yared27/DS_Problems/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Dynamic Programming
