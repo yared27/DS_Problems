@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/yared27/DS_Problems/tree/master/2755-extra-characters-in-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/yared27/DS_Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/yared27/DS_Problems/tree/master/3356-shortest-uncommon-substring-in-an-array) |
+| [3407-substring-matching-pattern](https://github.com/yared27/DS_Problems/tree/master/3407-substring-matching-pattern) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/yared27/DS_Problems/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yared27/DS_Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3905-partition-string](https://github.com/yared27/DS_Problems/tree/master/3905-partition-string) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yared27/DS_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/yared27/DS_Problems/tree/master/0686-repeated-string-match) |
+| [3407-substring-matching-pattern](https://github.com/yared27/DS_Problems/tree/master/3407-substring-matching-pattern) |
 ## Bit Manipulation
 |  |
 | ------- |
