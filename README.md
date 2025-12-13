@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/yared27/DS_Problems/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yared27/DS_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yared27/DS_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0044-wildcard-matching](https://github.com/yared27/DS_Problems/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/yared27/DS_Problems/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/yared27/DS_Problems/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/yared27/DS_Problems/tree/master/0072-edit-distance) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/yared27/DS_Problems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/yared27/DS_Problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/yared27/DS_Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/yared27/DS_Problems/tree/master/0055-jump-game) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yared27/DS_Problems/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/yared27/DS_Problems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/yared27/DS_Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yared27/DS_Problems/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/yared27/DS_Problems/tree/master/0134-gas-station) |
@@ -692,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/yared27/DS_Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/yared27/DS_Problems/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/yared27/DS_Problems/tree/master/0044-wildcard-matching) |
 | [0231-power-of-two](https://github.com/yared27/DS_Problems/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/yared27/DS_Problems/tree/master/1013-fibonacci-number) |
 ## Memoization
