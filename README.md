@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/yared27/DS_Problems/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [1962-single-threaded-cpu](https://github.com/yared27/DS_Problems/tree/master/1962-single-threaded-cpu) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/yared27/DS_Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2054-two-best-non-overlapping-events](https://github.com/yared27/DS_Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2058-concatenation-of-array](https://github.com/yared27/DS_Problems/tree/master/2058-concatenation-of-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/yared27/DS_Problems/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/yared27/DS_Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/yared27/DS_Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1397-search-suggestions-system](https://github.com/yared27/DS_Problems/tree/master/1397-search-suggestions-system) |
 | [1753-path-with-minimum-effort](https://github.com/yared27/DS_Problems/tree/master/1753-path-with-minimum-effort) |
+| [2054-two-best-non-overlapping-events](https://github.com/yared27/DS_Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/yared27/DS_Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/yared27/DS_Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/yared27/DS_Problems/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-get-watched-videos-by-your-friends](https://github.com/yared27/DS_Problems/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/yared27/DS_Problems/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [1962-single-threaded-cpu](https://github.com/yared27/DS_Problems/tree/master/1962-single-threaded-cpu) |
+| [2054-two-best-non-overlapping-events](https://github.com/yared27/DS_Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/yared27/DS_Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/yared27/DS_Problems/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/yared27/DS_Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -605,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/yared27/DS_Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/yared27/DS_Problems/tree/master/1250-longest-common-subsequence) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/yared27/DS_Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2054-two-best-non-overlapping-events](https://github.com/yared27/DS_Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/yared27/DS_Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2755-extra-characters-in-a-string](https://github.com/yared27/DS_Problems/tree/master/2755-extra-characters-in-a-string) |
 | [3318-maximum-number-of-operations-with-the-same-score-ii](https://github.com/yared27/DS_Problems/tree/master/3318-maximum-number-of-operations-with-the-same-score-ii) |
@@ -647,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/yared27/DS_Problems/tree/master/1397-search-suggestions-system) |
 | [1753-path-with-minimum-effort](https://github.com/yared27/DS_Problems/tree/master/1753-path-with-minimum-effort) |
 | [1962-single-threaded-cpu](https://github.com/yared27/DS_Problems/tree/master/1962-single-threaded-cpu) |
+| [2054-two-best-non-overlapping-events](https://github.com/yared27/DS_Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/yared27/DS_Problems/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/yared27/DS_Problems/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/yared27/DS_Problems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
