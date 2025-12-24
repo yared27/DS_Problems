@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2737-row-with-maximum-ones](https://github.com/yared27/DS_Problems/tree/master/2737-row-with-maximum-ones) |
 | [2755-extra-characters-in-a-string](https://github.com/yared27/DS_Problems/tree/master/2755-extra-characters-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/yared27/DS_Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3074-apple-redistribution-into-boxes](https://github.com/yared27/DS_Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/yared27/DS_Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3318-maximum-number-of-operations-with-the-same-score-ii](https://github.com/yared27/DS_Problems/tree/master/3318-maximum-number-of-operations-with-the-same-score-ii) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/yared27/DS_Problems/tree/master/3356-shortest-uncommon-substring-in-an-array) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/yared27/DS_Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/yared27/DS_Problems/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/yared27/DS_Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3074-apple-redistribution-into-boxes](https://github.com/yared27/DS_Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/yared27/DS_Problems/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Sliding Window
 |  |
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/yared27/DS_Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/yared27/DS_Problems/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/yared27/DS_Problems/tree/master/2450-minimum-replacements-to-sort-the-array) |
+| [3074-apple-redistribution-into-boxes](https://github.com/yared27/DS_Problems/tree/master/3074-apple-redistribution-into-boxes) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
