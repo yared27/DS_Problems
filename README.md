@@ -618,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/yared27/DS_Problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/yared27/DS_Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/yared27/DS_Problems/tree/master/1250-longest-common-subsequence) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/yared27/DS_Problems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/yared27/DS_Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2054-two-best-non-overlapping-events](https://github.com/yared27/DS_Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/yared27/DS_Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
