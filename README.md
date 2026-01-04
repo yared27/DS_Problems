@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/yared27/DS_Problems/tree/master/1168-duplicate-zeros) |
 | [1217-relative-sort-array](https://github.com/yared27/DS_Problems/tree/master/1217-relative-sort-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/yared27/DS_Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1390-four-divisors](https://github.com/yared27/DS_Problems/tree/master/1390-four-divisors) |
 | [1397-search-suggestions-system](https://github.com/yared27/DS_Problems/tree/master/1397-search-suggestions-system) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/yared27/DS_Problems/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/yared27/DS_Problems/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/yared27/DS_Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1236-n-th-tribonacci-number](https://github.com/yared27/DS_Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/yared27/DS_Problems/tree/master/1303-minimum-moves-to-reach-target-score) |
+| [1390-four-divisors](https://github.com/yared27/DS_Problems/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/yared27/DS_Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1585-the-kth-factor-of-n](https://github.com/yared27/DS_Problems/tree/master/1585-the-kth-factor-of-n) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/yared27/DS_Problems/tree/master/1636-number-of-substrings-with-only-1s) |
