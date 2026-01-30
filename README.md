@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/yared27/DS_Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2275-find-substring-with-given-hash-value](https://github.com/yared27/DS_Problems/tree/master/2275-find-substring-with-given-hash-value) |
 | [2755-extra-characters-in-a-string](https://github.com/yared27/DS_Problems/tree/master/2755-extra-characters-in-a-string) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/yared27/DS_Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/yared27/DS_Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/yared27/DS_Problems/tree/master/3356-shortest-uncommon-substring-in-an-array) |
 | [3407-substring-matching-pattern](https://github.com/yared27/DS_Problems/tree/master/3407-substring-matching-pattern) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2737-row-with-maximum-ones](https://github.com/yared27/DS_Problems/tree/master/2737-row-with-maximum-ones) |
 | [2755-extra-characters-in-a-string](https://github.com/yared27/DS_Problems/tree/master/2755-extra-characters-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/yared27/DS_Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/yared27/DS_Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/yared27/DS_Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/yared27/DS_Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/yared27/DS_Problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/yared27/DS_Problems/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/yared27/DS_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/yared27/DS_Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/yared27/DS_Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/yared27/DS_Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/yared27/DS_Problems/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/yared27/DS_Problems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -646,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/yared27/DS_Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/yared27/DS_Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2755-extra-characters-in-a-string](https://github.com/yared27/DS_Problems/tree/master/2755-extra-characters-in-a-string) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/yared27/DS_Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3318-maximum-number-of-operations-with-the-same-score-ii](https://github.com/yared27/DS_Problems/tree/master/3318-maximum-number-of-operations-with-the-same-score-ii) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/yared27/DS_Problems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/yared27/DS_Problems/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -744,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/yared27/DS_Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/yared27/DS_Problems/tree/master/1397-search-suggestions-system) |
 | [2755-extra-characters-in-a-string](https://github.com/yared27/DS_Problems/tree/master/2755-extra-characters-in-a-string) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/yared27/DS_Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/yared27/DS_Problems/tree/master/3356-shortest-uncommon-substring-in-an-array) |
 | [3905-partition-string](https://github.com/yared27/DS_Problems/tree/master/3905-partition-string) |
 ## Recursion
@@ -841,5 +846,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/yared27/DS_Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/yared27/DS_Problems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
