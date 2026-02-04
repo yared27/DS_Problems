@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3625-count-number-of-trapezoids-ii](https://github.com/yared27/DS_Problems/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3637-trionic-array-i](https://github.com/yared27/DS_Problems/tree/master/3637-trionic-array-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/yared27/DS_Problems/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3640-trionic-array-ii](https://github.com/yared27/DS_Problems/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/yared27/DS_Problems/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3863-power-grid-maintenance](https://github.com/yared27/DS_Problems/tree/master/3863-power-grid-maintenance) |
 ## Depth-First Search
@@ -656,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/yared27/DS_Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3318-maximum-number-of-operations-with-the-same-score-ii](https://github.com/yared27/DS_Problems/tree/master/3318-maximum-number-of-operations-with-the-same-score-ii) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/yared27/DS_Problems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3640-trionic-array-ii](https://github.com/yared27/DS_Problems/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/yared27/DS_Problems/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Greedy
 |  |
